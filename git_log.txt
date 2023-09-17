@@ -1,0 +1,78 @@
+commit 1ae3dfc478906fc4091cd6495d040768845502b5
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 14:07:56 2023 +1000
+
+    Update climate_q1.py
+
+commit 415de7fc0fe6525c64bf19d4b45fc34de3699ec5
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 14:02:43 2023 +1000
+
+    Update climate_q1.py
+
+commit f9a8fccca3eaa6b533d216bcd7e49a13095390d1
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 14:01:43 2023 +1000
+
+    Update climate_q1.py
+
+commit 7d64f6e9f7576a03f092b5c37b140e9415d01261
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 13:59:55 2023 +1000
+
+    updated.q1.py
+    
+    changed some code
+
+commit 8b9ff4e164a56f0178ee3c575b7ec494866728a0
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 13:45:38 2023 +1000
+
+    update_q2.py
+    
+    updated q2
+
+commit 9b58b63f072946fb67564601934ed0c1eb427a90
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 13:30:24 2023 +1000
+
+    changes
+    
+    changes to the code
+
+commit 5fb67e4eb7b47f77fcd4a4aabe2758f3e2e7a5a9
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:41:34 2023 +1000
+
+    Update README.md
+
+commit 1927190b3939b3c459cc877b8fa80b7e72d8761e
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:40:15 2023 +1000
+
+    Update climate_q2.py
+
+commit 651d64e75f813f96405e34fdef74f4beb2326e05
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:39:54 2023 +1000
+
+    Update climate_q1.py
+
+commit 336ec3cd082f0e9b88f5dd7f45eb8f7894cb7285
+Merge: 1f9eff2 921103c
+Author: 2810ICT-7810ICT-Assignment <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 15:01:16 2023 +1000
+
+    ready
+
+commit 921103c53ce6c3b89a1a6fcca5f6b01e6a370f1a
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jun 27 18:18:47 2023 +1000
+
+    Add files via upload
+
+commit 1f9eff2c890d3d750e3393e6db529082cbe5724e
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jun 27 18:16:42 2023 +1000
+
+    Add files via upload
