@@ -27,3 +27,8 @@ for row in rows:
     column3_values.append(row[2])
 
 # Now, column1_values, column2_values and column3_values contain the values from the database
+
+# You can use these lists to display the data, for example, by printing it
+for i in range(len(column1_values)):
+    print(f"Year: {column1_values[i]}, CO2: {column2_values[i]}, Temperatures: {column3_values[i]}")
+
