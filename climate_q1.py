@@ -27,10 +27,3 @@ for row in rows:
     column3_values.append(row[2])
 
 # Now, column1_values and column2_values contain the values from the database
-
-
-
-
-
-
-
