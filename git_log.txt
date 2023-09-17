@@ -1,3 +1,15 @@
+commit e6d9d454101351d8ba935bda47bf6cad6b0d2a4b
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 18:04:59 2023 +1000
+
+    Update climate_q2.py
+
+commit f71a5e31836ef2497cd3c25b919b18a08f38b178
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 17 14:09:47 2023 +1000
+
+    Create git_log.txt
+
 commit 1ae3dfc478906fc4091cd6495d040768845502b5
 Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
 Date:   Sun Sep 17 14:07:56 2023 +1000
