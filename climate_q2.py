@@ -6,21 +6,21 @@ data = pd.read_csv('climate.csv')
 
 
 years = data['Year']
-cO2 = data['CO2']
-temperatures = data['Temperature']
+co2 = data['CO2']
+Temperatures = data['Temperature']
 
 # Create a figure and plot the data
 plt.figure(figsize=(10, 6))  # Adjust the figure size as needed
 
 plt.plot(years, cO2, marker='o', linestyle='-', color='b')
 plt.subplot(2, 1, 1)
-plt.plot(years, cO2, 'b--')
+plt.plot(years, co2, 'b--')
 plt.title("Climate Data")
 plt.ylabel("[CO2]")
 plt.xlabel("Year (decade)")
 
 plt.subplot(2, 1, 2)
-plt.plot(years, temperatures, 'r*-')
+plt.plot(years, Temperatures, 'r*-')
 plt.ylabel("Temp (C)")
 plt.xlabel("Year (decade)")
 
