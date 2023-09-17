@@ -1,21 +1,33 @@
-import matplotlib.pyplot as plt
+import sqlite3
 
-years = []
-co2 = []
-temp = []
+# Connect to the SQLite database
+conn = sqlite3.connect('climate.db')
 
-plt.subplot(2, 1, 1)
-plt.plot(years, co2, 'b--')
-plt.title("Climate Data")
-plt.ylabel("[CO2]")
-plt.xlabel("Year (decade)")
+# Create a cursor object to interact with the database
+cursor = conn.cursor()
 
-plt.subplot(2, 1, 2)
-plt.plot(years, temp, 'r*-')
-plt.ylabel("Temp (C)")
-plt.xlabel("Year (decade)")
-plt.show()
-plt.savefig("co2_temp_1.png")
+# Execute a SQL query to fetch data from the database
+cursor.execute('SELECT Year, CO2, Temperature FROM ClimateData')
+
+# Fetch all the rows as a list of tuples
+rows = cursor.fetchall()
+
+# Close the database connection
+conn.close()
+
+# Define Python lists to store the values
+column1_values = []
+column2_values = []
+column3_values = []
+
+# Populate the Python lists with values from the database
+for row in rows:
+    column1_values.append(row[0])
+    column2_values.append(row[1])
+    column3_values.append(row[2])
+
+# Now, column1_values and column2_values contain the values from the database
+
 
 
 
