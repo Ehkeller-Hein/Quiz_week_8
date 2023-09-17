@@ -26,4 +26,4 @@ for row in rows:
     column2_values.append(row[1])
     column3_values.append(row[2])
 
-# Now, column1_values and column2_values contain the values from the database
+# Now, column1_values, column2_values and column3_values contain the values from the database
